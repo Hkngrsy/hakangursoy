@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <radialGradient id="g" cx="0.3" cy="0.2" r="0.8"><stop offset="0" stop-color="#dc2626" stop-opacity="0.35"/><stop offset="1" stop-color="#dc2626" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="2"/></pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="#0a0a0a"/>
+  <rect width="1600" height="1000" fill="url(#grid)"/>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <rect x="0" y="0" width="1600" height="72" fill="#121212"/>
+  <circle cx="44" cy="36" r="11" fill="#ef4444"/><circle cx="82" cy="36" r="11" fill="#404040"/><circle cx="120" cy="36" r="11" fill="#404040"/>
+  <rect x="200" y="18" width="700" height="36" rx="18" fill="#1c1c1c"/>
+  <text x="120" y="470" font-family="JetBrains Mono, Menlo, monospace" font-size="34" fill="#f87171">// Kurumsal Site</text>
+  <text x="114" y="590" font-family="JetBrains Mono, Menlo, monospace" font-size="128" font-weight="700" fill="#fafafa">Liya</text>
+  <rect x="120" y="650" width="96" height="14" fill="#dc2626"/>
+  <text x="120" y="900" font-family="JetBrains Mono, Menlo, monospace" font-size="26" fill="#737373">ekran görüntüsü yakında</text>
+</svg>

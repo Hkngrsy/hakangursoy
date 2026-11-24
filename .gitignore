@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ajan/araç çalışma dosyaları
+.claude-flow/
+.ruv-swarm/
+.swarm/
+
+# yerel ayarlar (API anahtarları)
+.claude/settings.local.json
+
+# yerel araç dosyaları (üçüncü parti skill paketleri)
+.claude/skills/
